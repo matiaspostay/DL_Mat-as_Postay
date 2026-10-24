@@ -1,5 +1,5 @@
 # Trabajo Práctico N° 1 - Aprendizaje Profundo **Alumno:** [Matías Hernán Postay]
-**Materia:** Inteligencia Artificial / Aprendizaje Profundo **Fecha:** [24/11/2026] --
+**Conceptos Básicos de IA y DL** Inteligencia Artificial / Aprendizaje Profundo **Fecha:** [24/11/2026] --
 - ## 📁 Contenido del Repositorio Este repositorio contiene la entrega del primer trabajo
 práctico introductorio: - `TP1_Matías_Postay.ipynb`: Cuaderno de Google Colab con
 ejercicios de presupuesto personal, condicionales `if/else`, cálculo de aumentos con bucles
