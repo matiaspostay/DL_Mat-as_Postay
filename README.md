@@ -4,7 +4,7 @@
 
 **Materia:** Conceptos Básicos de IA y DL - Inteligencia Artificial / Aprendizaje Profundo
 
-**Fecha:** 24/11/2026
+**Fecha:** 24/10/2026
 
 ---
 
